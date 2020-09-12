@@ -12,4 +12,4 @@ for i in range(1000):
     time.sleep(2)#လူဆန်အောင်အချိန်ဆွဲတာ
     
 #Guide pdf ဖတ်ပြီးမှ run ပါ ခင်ဗျ
-#nay kaung lar!,
+#nay kaung lar!!
